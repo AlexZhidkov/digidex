@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "digidex-pro": {
+      "hosting": {
+        "digidex": [
+          "digidex-pro"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "digidex-pro"
+  }
+}
